@@ -13,7 +13,8 @@ def main():
           "-------------\n"
           "1. Encode\n"
           "2. Decode\n"
-          "3. Quit\n")
+          "3. Quit\n"
+          "\n")
     user = input("Please enter an option: ")
     while True:
         if user == "1":
